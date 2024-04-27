@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": "The SI unit of force is",
+    "options": ["metre", "Newton", "Pascal", " Square metre"],
+    "answer_index": 0
+  },
+  {
+    "id": 2,
+    "question": "When displacement is normal to applied force then work done is",
+    "options": ["infinite", "zero", "positive", " negative"],
+    "answer_index": 1
+  },
+  {
+    "id": 3,
+    "question": "The pair of equation x=0 and x=5 has",
+    "options": ["no solutio", "FALSE", " Can be true or false", "Can not say"],
+    "answer_index": 1
+  },
+  {
+    "id": 4,
+    "question": "The first alpha version of Flutter was released in ?",
+    "options": ["2016", "2017", "2018", "2019"],
+    "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question": "Flutter is mainly optimized for 2D mobile apps that can run on?",
+    "options": ["Android", "iOS", "Both A and B", "None of the above"],
+    "answer_index": 3
+  }
+]
